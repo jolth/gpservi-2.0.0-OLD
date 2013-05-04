@@ -1,0 +1,10 @@
+Metadata-Version: 2.0.0
+Name: gpservi
+Version: 2.0.0
+Summary: gpservi: server GPS
+Home-page:  http://jolthgs.wordpress.com/
+Author: Jorge A. Toro
+Author-email: jolthgs@gmail.com
+License: BSD
+Description: Capture packages, send for GPS devices. 
+Platform: any
